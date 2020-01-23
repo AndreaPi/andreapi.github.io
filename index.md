@@ -1,1 +1,1 @@
-Thoughts on Machine Learning, Statistics and Life. Updates randomly.
+Thoughts on Machine Learning, Statistics and Life on Earth.
