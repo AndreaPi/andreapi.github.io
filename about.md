@@ -1,4 +1,3 @@
-# About
+## About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Hello and welcome to my blog. I am Andrea Panizza, currently a Senior Staff Data Scientist at Baker Hughes. I mostly blog about Deep Learning, Statistics, and Life. Don't expect regular updates.
